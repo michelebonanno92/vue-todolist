@@ -15,9 +15,12 @@ general
 
 body{
    background-color: #F6F8F9;
-
 }
 
+button{
+   cursor: pointer;
+   border: none;
+}
 
 /* 
 header
@@ -45,6 +48,7 @@ header
 }
 main{
  background-color: #F6F8F9;
+
 }  
 
 #add-task{
