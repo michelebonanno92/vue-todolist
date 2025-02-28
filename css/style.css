@@ -44,9 +44,11 @@ body {
    width: 300px;
  }
  
- .container.logo {
+ .container-logo {
    display: flex;
    justify-content: center;
+   align-items: center;
+   padding: 50px;
  }
  
  /* ----------- MAIN: Input -----------*/
@@ -110,6 +112,9 @@ body {
    align-items: center;
  }
  
+ img{
+   max-width: 50px;
+ }
  
  
  
